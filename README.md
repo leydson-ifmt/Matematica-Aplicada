@@ -1,4 +1,4 @@
-# Matematica-Aplicada
+# Matemática Aplicada
 
 ## A este componente está organizado em 6 (seis) unidades:
 
@@ -8,3 +8,4 @@
 * Unidade IV: Estudo das funções.
 * Unidade V: Estudo das Matrizes.
 * Unidade VI: Estudo dos vetores.
+__Todo agradecimento ao professor Sérgio Candido de Gouveia Neto da disciplina.__
